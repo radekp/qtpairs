@@ -1,0 +1,4 @@
+Project /src/3rdparty/games/qt-pairs-1.0/ is normally disabled. (Disabling project because it is not listed in PROJECTS)
+moc /home/jack/GIT/qtmoko/src/3rdparty/games/qt-pairs-1.0/TGameBoard.cpp
+arm-linux-g++ /home/jack/GIT/qtmoko/src/3rdparty/games/qt-pairs-1.0/TGameBoard.cpp
+arm-linux-g++ /home/jack/GIT/build/src/3rdparty/games/qt-pairs-1.0/qt-pairs

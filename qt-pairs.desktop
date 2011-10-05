@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name[]=qt-pairs
+Comment[]=A pairs game
+Exec=qt-pairs
+Terminal=false
+Type=Application
+Categories=Game;
+Icon=qt-pairs/qt-pairs
+MimeType=""
+MimeTypeIcons=""
+[Translation]
+File=QtopiaGames
+Context=qt-pairs

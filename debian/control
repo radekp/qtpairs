@@ -1,0 +1,14 @@
+Source: qt-pairs-1.0
+Section: comm
+Priority: optional
+Maintainer: giotti <@>
+Build-Depends: 
+Standards-Version: 1.0.0
+Homepage: http://www.qtmoko.org
+Vcs-Git: git://github.com/giotti/qtmoko.git
+Vcs-Browser: https://github.com/giotti/qtmoko
+
+Package: qt-pairs-1.0
+Architecture: any
+Depends: 
+Description: A pairs game
